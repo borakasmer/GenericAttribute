@@ -1,0 +1,15 @@
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\bin\Debug\net7.0\DAL.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\bin\Debug\net7.0\DAL.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Bora Kasmer\source\repos\GenericAttributeBlog\Repository\obj\Debug\net7.0\ref\Repository.dll
